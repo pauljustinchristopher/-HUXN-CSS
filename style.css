@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+RO:wght@100..400&display=swap');
+
+h1 {
+    font-family: "Playwrite RO", cursive;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+p {
+    line-height: 20px;
+    word-spacing: 5px;
+    line-break:auto;
+    cursor: crosshair;
+}
