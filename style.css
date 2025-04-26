@@ -1,14 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Playwrite+RO:wght@100..400&display=swap');
-
-h1 {
-    font-family: "Playwrite RO", cursive;
-    font-size: 20px;
-    text-transform: capitalize;
+* {
+    margin: 0;
 }
-
-p {
-    line-height: 20px;
-    word-spacing: 5px;
-    line-break:auto;
-    cursor: crosshair;
+div {
+    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(pexels-daniela-sanchez-2578665-31776912.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    height: 100vh;
+    background-color: yellowgreen;
+    background-attachment: fixed;
+    /* filter: blur(2px);
+    -webkit-filter: blur(2px);
+    z-index: -1; */
+    /* filter: grayscale(70%); */
+    
 }
